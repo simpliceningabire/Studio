@@ -1,0 +1,6 @@
+{
+  "name": "Ningabire Studio",
+  "description": "Studio d'enregistrement vocal mobile et station audionumérique multipiste avec effets professionnels, table de mixage et mastering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
